@@ -1,0 +1,9 @@
+[package]
+name = "Rust-Text-editor"
+version = "0.1.0"
+authors = ["Chetan Singh"]
+edition = "2018"
+description = "Text Editor in Rust"
+
+[dependencies]
+termion = "1"
